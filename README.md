@@ -27,6 +27,7 @@ A hand gliding simulator controller for VR apps. - Ένα χειριστήριο
 - 1 x Arduino Nano.
 - 1 x Bluetooth module HC-05 zs-040.
 - 1 x MPU9250+BMP280 10DOF Acceleration/Gyroscope/Compass Sensor Module - GY-91
+- 1 x Logic Level Converter Bi-Directional
 - 2 x DC 3V 10MM x 2.7MM Micro Motor - Coin Flat Vibrating Motor
 - 1 X Google Cardboard VR Glasses
 - 1 x PLA filament
