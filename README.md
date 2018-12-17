@@ -31,3 +31,4 @@
 - 2 x DC 3V 10MM x 2.7MM Micro Motor - Coin Flat Vibrating Motor
 - 1 X Google Cardboard VR Glasses
 - 1 x PLA filament
+![](https://github.com/hackersppf/I-can-fly/blob/master/I%20can%20fly%20-%20%CF%80%CF%81%CE%BF%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF.png)
