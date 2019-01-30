@@ -24,12 +24,12 @@
 	- Θα αξιοποιήσουμε την εμπειρία των μαθητών του Ομίλου μας που συμμετέχουν για 2η και 3η χρονιά, στην γλώσσα προγραμματισμού Processing για να δημιουργήσουμε μια απλή εφαρμογή VR.
 	- Θα αξιοποιήσουμε την εμπειρία του εκπαιδευτικού πληροφορικής του 5ου Δημοτικού Σχολείου Φλώρινας Σωτήρη Γεωργίου για να δημιουργήσουμε μια εφαρμογή VR στο περιβάλλον Unity.
 ## Λίστα βασικού εξοπλισμού
-- 1 x Arduino Nano.
-- 1 x Bluetooth module HC-05 zs-040.
-- 1 x MPU9250+BMP280 10DOF Acceleration/Gyroscope/Compass Sensor Module - GY-91
-- 1 x Logic Level Converter Bi-Directional
-- 2 x DC 3V 10MM x 2.7MM Micro Motor - Coin Flat Vibrating Motor
-- 1 X Google Cardboard VR Glasses
-- 1 x PLA filament
+- 1 x [Arduino Nano](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/microcontrollers/compatible-boards/arduino-nano-v3.0-w-atmega328p-oem/ "Arduino Nano") - 4,98 ευρώ.
+- 1 x [Bluetooth module HC-05 zs-040](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/wireless-communications/hc-05-6-pin-wireless-bluetooth-rf-transceiver-module-for-arduino/ "Bluetooth module HC-05 zs-040") - 7,40 ευρώ.
+- 1 x [MPU-6050 3 Axis Gyroscope + Accelerometer Module](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/sensors/tilt/mpu-6050-3-axis-gyroscope-accelerometer-module-for-arduino-gy-521/ "MPU-6050 3 Axis Gyroscope + Accelerometer Module") - 4,80 ευρώ
+- 1 x [IIC I2C Bi-Directional Logic Level Converter Module](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/modules/converter/iic-i2c-bi-directional-logic-level-converter-module-5v-to-3.3v-for-arduino/ "IIC I2C Bi-Directional Logic Level Converter Module") - 1,25 ευρώ
+- 2 x [DC 3V 12MM x 3.4MM Micro Motor - Coin Flat Vibrating Motor](https://www.cableworks.gr/ilektronika/arduino-and-microcontrollers/motors/dc/dc-3v-12mm-x-3.4mm-micro-motor-coin-flat-vibrating-motor/ "DC 3V 12MM x 3.4MM Micro Motor - Coin Flat Vibrating Motor") - 1,98 ευρώ
+- 1 X [Google Cardboard VR Glasses](http://mrdigital.gr/%CF%80%CF%81%CE%BF%CF%8A%CF%8C%CE%BD/diy-virtual-reality-3d-cardboard-%CE%B3%CF%85%CE%B1%CE%BB%CE%B9%CE%AC-%CE%B3%CE%B9%CE%B1-%CE%B5%CF%86%CE%B1%CF%81%CE%BC%CE%BF%CE%B3%CE%AD%CF%82-google-iblue/ "Google Cardboard VR Glasses") - 4,15 ευρώ
+- **Σύνολο: 24,56 ευρώ**
 ## Πρόχειρο σχέδιο κατασκευής
 ![](https://github.com/hackersppf/I-can-fly/blob/master/I%20can%20fly%20-%20%CF%80%CF%81%CE%BF%CF%83%CF%87%CE%AD%CE%B4%CE%B9%CE%BF.png)
