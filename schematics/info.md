@@ -1,1 +1,0 @@
-Schematics for our project
